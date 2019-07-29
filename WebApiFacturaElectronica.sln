@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiFacturaElectronica", "WebApiFacturaElectronica\WebApiFacturaElectronica.csproj", "{C5645F81-BE66-405C-A3EA-23D6432CA582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5645F81-BE66-405C-A3EA-23D6432CA582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5645F81-BE66-405C-A3EA-23D6432CA582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5645F81-BE66-405C-A3EA-23D6432CA582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5645F81-BE66-405C-A3EA-23D6432CA582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12BB7D69-75A3-4223-9937-11DB1A4375E8}
+	EndGlobalSection
+EndGlobal

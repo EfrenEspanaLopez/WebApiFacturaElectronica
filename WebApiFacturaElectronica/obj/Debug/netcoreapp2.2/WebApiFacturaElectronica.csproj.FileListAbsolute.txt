@@ -1,0 +1,14 @@
+C:\Users\EFREN\Documents\Olimpia\WebApiFacturaElectronica\WebApiFacturaElectronica\bin\Debug\netcoreapp2.2\WebApiFacturaElectronica.deps.json
+C:\Users\EFREN\Documents\Olimpia\WebApiFacturaElectronica\WebApiFacturaElectronica\bin\Debug\netcoreapp2.2\WebApiFacturaElectronica.runtimeconfig.json
+C:\Users\EFREN\Documents\Olimpia\WebApiFacturaElectronica\WebApiFacturaElectronica\bin\Debug\netcoreapp2.2\WebApiFacturaElectronica.runtimeconfig.dev.json
+C:\Users\EFREN\Documents\Olimpia\WebApiFacturaElectronica\WebApiFacturaElectronica\bin\Debug\netcoreapp2.2\WebApiFacturaElectronica.dll
+C:\Users\EFREN\Documents\Olimpia\WebApiFacturaElectronica\WebApiFacturaElectronica\obj\Debug\netcoreapp2.2\WebApiFacturaElectronica.csprojAssemblyReference.cache
+C:\Users\EFREN\Documents\Olimpia\WebApiFacturaElectronica\WebApiFacturaElectronica\obj\Debug\netcoreapp2.2\WebApiFacturaElectronica.csproj.CoreCompileInputs.cache
+C:\Users\EFREN\Documents\Olimpia\WebApiFacturaElectronica\WebApiFacturaElectronica\obj\Debug\netcoreapp2.2\WebApiFacturaElectronica.RazorAssemblyInfo.cache
+C:\Users\EFREN\Documents\Olimpia\WebApiFacturaElectronica\WebApiFacturaElectronica\obj\Debug\netcoreapp2.2\WebApiFacturaElectronica.RazorAssemblyInfo.cs
+C:\Users\EFREN\Documents\Olimpia\WebApiFacturaElectronica\WebApiFacturaElectronica\obj\Debug\netcoreapp2.2\WebApiFacturaElectronica.AssemblyInfoInputs.cache
+C:\Users\EFREN\Documents\Olimpia\WebApiFacturaElectronica\WebApiFacturaElectronica\obj\Debug\netcoreapp2.2\WebApiFacturaElectronica.AssemblyInfo.cs
+C:\Users\EFREN\Documents\Olimpia\WebApiFacturaElectronica\WebApiFacturaElectronica\obj\Debug\netcoreapp2.2\WebApiFacturaElectronica.RazorTargetAssemblyInfo.cache
+C:\Users\EFREN\Documents\Olimpia\WebApiFacturaElectronica\WebApiFacturaElectronica\bin\Debug\netcoreapp2.2\WebApiFacturaElectronica.pdb
+C:\Users\EFREN\Documents\Olimpia\WebApiFacturaElectronica\WebApiFacturaElectronica\obj\Debug\netcoreapp2.2\WebApiFacturaElectronica.dll
+C:\Users\EFREN\Documents\Olimpia\WebApiFacturaElectronica\WebApiFacturaElectronica\obj\Debug\netcoreapp2.2\WebApiFacturaElectronica.pdb
